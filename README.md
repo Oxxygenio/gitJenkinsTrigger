@@ -1,0 +1,2 @@
+# gitJenkinsTrigger
+Testing Jenkins trigger
